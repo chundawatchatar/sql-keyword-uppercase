@@ -27,24 +27,9 @@ export class formatter {
                         token = '';
                     }
                     this.skipWhiteSpace();
-                    // while (true) {
-                    //     if (this.lineCharacter <= this.txt.length && this.skippingCharacters.indexOf(this.txt.charAt(this.lineCharacter)) !== -1) {
-                    //         this.lineCharacter++;
-                    //         continue;
-                    //     }
-                    //     break;
-                    // }
                 }
                 else {
                     token = this.findToken();
-                    // token = '';
-                    // while (true) {
-                    //     if (this.lineCharacter >= this.txt.length || this.skippingCharacters.indexOf(this.txt.charAt(this.lineCharacter)) !== -1) {
-                    //         break;
-                    //     }
-                    //     token += this.txt.charAt(this.lineCharacter);
-                    //     this.lineCharacter++;
-                    // }
                 }
 
             }
