@@ -222,5 +222,11 @@ const keywords = [
     'YEAR',
     'YES',
     'ZONE',
+    'USE', 
+    'CONSTRAINT', 
+    'TINYINT',
+    'AUTO_INCREMENT', 
+    'UNSIGNED', 
+    'DELIMITER'
 ];
 export { keywords };
