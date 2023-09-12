@@ -193,6 +193,7 @@ const keywords = [
     'THEN',
     'TIME',
     'TIMESTAMP',
+    'TOP',
     'TRANSACTION',
     'TRIGGER',
     'TRIM',
