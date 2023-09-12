@@ -2,7 +2,7 @@
 	"name": "sql-keyword-uppercase",
 	"displayName": "SQL Keyword Uppercase",
 	"description": "",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "chundawatchatar",
 	"engines": {
 		"vscode": "^1.53.0"
